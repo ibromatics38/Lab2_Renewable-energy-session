@@ -86,7 +86,7 @@ Supervised by **Prof. Marc Cheah Mañé** (UPC). Special thanks to the **Departm
 
 ---
 
-🔗 **Explore the [https://github.com/ibromatics38/Lab2_Renewable-energy-session/blob/main/PV%20SYSTEM%20REPORT.pdf](PV_SYSTEM_REPORT.pdf) for implementation details!**
+🔗 **Explore the [(https://github.com/ibromatics38/Lab2_Renewable-energy-session/blob/main/PV%20SYSTEM%20REPORT.pdf) ]for implementation details!**
 
 ---
 
