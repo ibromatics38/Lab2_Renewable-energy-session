@@ -1,6 +1,6 @@
 # Lab2_Renewable-energy-session
 
-# ☀️ Advanced PV System Modeling with MPPT | Renewable Energy Lab 2
+# ☀️ PV System Modelling with MPPT | Renewable Energy Lab 2
 
 ![MATLAB/Simulink](https://img.shields.io/badge/-MATLAB%2FSimulink-0076A8?logo=mathworks&logoColor=white)
 ![MPPT](https://img.shields.io/badge/-Maximum%20Power%20Point%20Tracking-4CAF50)
@@ -95,7 +95,7 @@ Supervised by **Prof. Marc Cheah Mañé** (UPC). Special thanks to the **Departm
 - **Real-World Relevance**: IEEE-compliant grid interaction analysis.
 - **Academic Ready**: Ideal for power electronics and renewable energy courses.
 
-📩 **Contact**: [Your Email] | [LinkedIn Profile]  
+📩 **Contact**: [ibromatics38@gmail.com] | [LinkedIn Profile]  
 💡 **Contribute**: Open to collaborations and optimizations!
 
 ## 📂 Repository Structure
